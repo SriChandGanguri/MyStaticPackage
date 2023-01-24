@@ -9,6 +9,6 @@ import _Concurrency
 import _StringProcessing
 public func functionA()
 @_hasMissingDesignatedInitializers public class Alert {
-  public func showAlert(vc: UIKit.UIViewController)
+  public static func showAlert(vc: UIKit.UIViewController)
   @objc deinit
 }

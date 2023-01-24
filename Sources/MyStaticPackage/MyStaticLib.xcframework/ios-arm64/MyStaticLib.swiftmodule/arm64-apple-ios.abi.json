@@ -64,11 +64,12 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:11MyStaticLib5AlertC04showD02vcySo16UIViewControllerC_tF",
-            "mangledName": "$s11MyStaticLib5AlertC04showD02vcySo16UIViewControllerC_tF",
+            "usr": "s:11MyStaticLib5AlertC04showD02vcySo16UIViewControllerC_tFZ",
+            "mangledName": "$s11MyStaticLib5AlertC04showD02vcySo16UIViewControllerC_tFZ",
             "moduleName": "MyStaticLib",
-            "isOpen": true,
+            "static": true,
             "declAttributes": [
+              "Final",
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
@@ -110,14 +111,14 @@
     {
       "filePath": "\/Users\/srichandganguri\/Desktop\/ios-static-lib-xcframework-starter\/MyStaticLib\/MyStaticLib\/FunctionA.swift",
       "kind": "StringLiteral",
-      "offset": 399,
+      "offset": 406,
       "length": 9,
       "value": "\"Library\""
     },
     {
       "filePath": "\/Users\/srichandganguri\/Desktop\/ios-static-lib-xcframework-starter\/MyStaticLib\/MyStaticLib\/FunctionA.swift",
       "kind": "StringLiteral",
-      "offset": 419,
+      "offset": 426,
       "length": 17,
       "value": "\"Code is working\""
     }
